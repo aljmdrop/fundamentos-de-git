@@ -1,1 +1,3 @@
 # fundamentos de git y ci
+
+>Esta mañana, las autoridades de la Región de Los Lagos inauguraron oficialmente la primera flota de transbordadores 100% eléctricos del país, la cual conectará Pargua con la Isla Grande de Chiloé. Este proyecto de modernización busca reducir drásticamente la huella de carbono del transporte marítimo en la zona y ofrecer una experiencia de viaje mucho más limpia para los miles de pasajeros que cruzan el canal diariamente.
